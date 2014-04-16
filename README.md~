@@ -1,0 +1,8 @@
+DES-Python
+==========
+
+C code from Discrete Event Simulation: A First Course translated into Python 3.3
+
+Run any of the programs with 'python3 filename.py'
+
+To run a program with a datafile, you can run either 'cat data.dat | python3 file.py' or 'python3 file.py < data.dat'. The latter will not work in Powershell/Cmd if you use Windows. 
